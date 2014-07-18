@@ -2,7 +2,7 @@
 
 module.exports = {
 	//db: 'mongodb://localhost/navinyomeanapp-dev',
-	db: 'mongodb://naveen:naveen@kahana.mongohq.com:10063/navinyomeanapp'
+	db: 'mongodb://naveen:naveen@kahana.mongohq.com:10063/navinyomeanapp',
 		title: 'navinyomeanapp - Development Environment'
 	},
 	facebook: {
