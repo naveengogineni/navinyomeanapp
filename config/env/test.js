@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-	db: 'mongodb://localhost/navinyomeanapp-test',
+	db: 'mongodb://naveen:naveen@kahana.mongohq.com:10063/navinyomeanapp',
 	port: 3001,
 	app: {
 		title: 'navinyomeanapp - Test Environment'
