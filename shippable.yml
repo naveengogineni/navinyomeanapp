@@ -7,4 +7,4 @@ services:
   - mongodb
   
 after_success:
-  - git push https://github.com/naveengogineni/navinyomeanapp.git master
+  - git push git@heroku.com:navinyomeanapp.git master
