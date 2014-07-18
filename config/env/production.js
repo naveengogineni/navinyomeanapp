@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-	db: process.env.MONGOHQ_URL || process.env.MONGOLAB_URI || 'mongodb://testmeanapp:cd2abd2d4967ed7fc0b77494416a1f6e@kahana.mongohq.com:10063/navinyomeanapp',
+	db: process.env.MONGOHQ_URL || process.env.MONGOLAB_URI || 'mongodb://naveen:naveen@kahana.mongohq.com:10063/navinyomeanapp',
 	assets: {
 		lib: {
 			css: [
